@@ -1,0 +1,306 @@
+Enter the number of processes: 3
+Initial total amount: 278089
+Process 2: Sent 23 from account 2 to account 1
+Process 0: Sent 56 from account 0 to account 2
+Process 1: Sent 10 from account 1 to account 2
+Process 1: Sent 29 from account 1 to account 1
+Process 1: Sent 64 from account 1 to account 1
+Process 2: Sent 42 from account 2 to account 2
+Process 0: Sent 49 from account 0 to account 0
+Process 2: Sent 25 from account 2 to account 2
+Process 0: Sent 26 from account 0 to account 0
+Process 0: Sent 79 from account 0 to account 1
+Process 0 initiating snapshot
+Process 0: Sending marker to process 2
+Process 0: Sending marker to process 1
+Process 1: Sent 19 from account 1 to account 1
+Process 1 initiating snapshot
+Process 1: Sending marker to process 2
+Process 1: Sending marker to process 0
+Process 2: Sent 76 from account 2 to account 1
+Process 2 initiating snapshot
+Process 2: Sending marker to process 0
+Process 2: Sending marker to process 1
+Snapshot taken by process 0: [28190 33827 23075]
+Snapshot taken by process 1: [46327 22582 21308]
+Process 0: Sent 37 from account 0 to account 0
+Process 0: Sent 80 from account 0 to account 1
+Process 0: Sent 83 from account 0 to account 1
+Process 1: Sent 86 from account 1 to account 2
+Process 0 initiating snapshot
+Process 0: Sending marker to process 2
+Process 0: Sending marker to process 1
+Snapshot taken by process 2: [46958 50027 5795]
+Process 1: Sent 83 from account 1 to account 1
+Process 1: Sent 95 from account 1 to account 0
+Process 1 initiating snapshot
+Process 1: Sending marker to process 2
+Process 1: Sending marker to process 0
+Process 2: Sent 34 from account 2 to account 2
+Process 2: Sent 12 from account 2 to account 0
+Process 2: Sent 45 from account 2 to account 1
+Process 2 initiating snapshot
+Process 2: Sending marker to process 1
+Process 2: Sending marker to process 0
+Snapshot taken by process 0: [28027 33990 23075]
+Snapshot taken by process 1: [46422 22401 21394]
+Process 0: Sent 27 from account 0 to account 0
+Process 0: Sent 38 from account 0 to account 2
+Process 1: Sent 60 from account 1 to account 2
+Process 1: Sent 28 from account 1 to account 0
+Process 0: Sent 42 from account 0 to account 0
+Process 0 initiating snapshot
+Process 0: Sending marker to process 2
+Process 0: Sending marker to process 1
+Process 1: Sent 6 from account 1 to account 2
+Process 1 initiating snapshot
+Process 1: Sending marker to process 2
+Process 1: Sending marker to process 0
+Snapshot taken by process 2: [46970 50072 5738]
+Process 2: Sent 51 from account 2 to account 0
+Process 2: Sent 16 from account 2 to account 0
+Process 2: Sent 1 from account 2 to account 0
+Process 2 initiating snapshot
+Process 2: Sending marker to process 1
+Process 2: Sending marker to process 0
+Snapshot taken by process 0: [27989 33990 23113]
+Snapshot taken by process 1: [46450 22307 21460]
+Process 0: Sent 56 from account 0 to account 0
+Process 1: Sent 56 from account 1 to account 0
+Process 1: Sent 83 from account 1 to account 2
+Process 0: Sent 56 from account 0 to account 1
+Process 1: Sent 31 from account 1 to account 2
+Process 1 initiating snapshot
+Process 1: Sending marker to process 2
+Process 1: Sending marker to process 0
+Process 0: Sent 13 from account 0 to account 1
+Process 0 initiating snapshot
+Process 0: Sending marker to process 2
+Process 0: Sending marker to process 1
+Snapshot taken by process 2: [47038 50072 5670]
+Process 2: Sent 83 from account 2 to account 1
+Process 2: Sent 34 from account 2 to account 1
+Process 2: Sent 35 from account 2 to account 0
+Process 2 initiating snapshot
+Process 2: Sending marker to process 1
+Process 2: Sending marker to process 0
+Snapshot taken by process 1: [46506 22137 21574]
+Process 1: Sent 20 from account 1 to account 1
+Snapshot taken by process 0: [27920 34059 23113]
+Process 1: Sent 53 from account 1 to account 2
+Process 0: Sent 98 from account 0 to account 1
+Process 0: Sent 0 from account 0 to account 1
+Process 1: Sent 57 from account 1 to account 1
+Process 1 initiating snapshot
+Process 1: Sending marker to process 0
+Process 1: Sending marker to process 2
+Snapshot taken by process 2: [47073 50189 5518]
+Process 0: Sent 11 from account 0 to account 0
+Process 0 initiating snapshot
+Process 0: Sending marker to process 2
+Process 0: Sending marker to process 1
+Process 2: Sent 89 from account 2 to account 2
+Process 2: Sent 94 from account 2 to account 0
+Process 2: Sent 24 from account 2 to account 2
+Process 2 initiating snapshot
+Process 2: Sending marker to process 1
+Process 2: Sending marker to process 0
+Snapshot taken by process 1: [46506 22084 21627]
+Process 1: Sent 33 from account 1 to account 2
+Snapshot taken by process 0: [27822 34157 23113]
+Process 1: Sent 80 from account 1 to account 2
+Process 1: Sent 13 from account 1 to account 0
+Process 1 initiating snapshot
+Process 1: Sending marker to process 2
+Process 1: Sending marker to process 0
+Process 0: Sent 1 from account 0 to account 1
+Process 0: Sent 43 from account 0 to account 0
+Process 0: Sent 16 from account 0 to account 2
+Process 0 initiating snapshot
+Process 0: Sending marker to process 1
+Process 0: Sending marker to process 2
+Snapshot taken by process 2: [47167 50189 5424]
+Process 2: Sent 22 from account 2 to account 0
+Process 2: Sent 57 from account 2 to account 1
+Process 2: Sent 39 from account 2 to account 0
+Process 2 initiating snapshot
+Process 2: Sending marker to process 1
+Process 2: Sending marker to process 0
+Snapshot taken by process 1: [46519 21958 21740]
+Process 1: Sent 8 from account 1 to account 0
+Process 1: Sent 55 from account 1 to account 2
+Snapshot taken by process 0: [27805 34158 23129]
+Process 1: Sent 15 from account 1 to account 1
+Process 1 initiating snapshot
+Process 1: Sending marker to process 2
+Process 1: Sending marker to process 0
+Process 0: Sent 84 from account 0 to account 1
+Process 0: Sent 14 from account 0 to account 2
+Process 0: Sent 31 from account 0 to account 1
+Process 0 initiating snapshot
+Process 0: Sending marker to process 2
+Process 0: Sending marker to process 1
+Snapshot taken by process 2: [47228 50246 5306]
+Process 2: Sent 37 from account 2 to account 1
+Process 2: Sent 25 from account 2 to account 0
+Process 2: Sent 68 from account 2 to account 1
+Process 2 initiating snapshot
+Process 2: Sending marker to process 1
+Process 2: Sending marker to process 0
+Snapshot taken by process 1: [46527 21895 21795]
+Process 1: Sent 73 from account 1 to account 2
+Process 1: Sent 88 from account 1 to account 2
+Snapshot taken by process 0: [27676 34273 23143]
+Process 1: Sent 82 from account 1 to account 0
+Process 1 initiating snapshot
+Process 1: Sending marker to process 2
+Process 1: Sending marker to process 0
+Process 0: Sent 4 from account 0 to account 1
+Snapshot taken by process 2: [47253 50351 5176]
+Process 0: Sent 0 from account 0 to account 2
+Process 2: Sent 28 from account 2 to account 0
+Process 2: Sent 13 from account 2 to account 0
+Process 0: Sent 40 from account 0 to account 0
+Process 0 initiating snapshot
+Process 0: Sending marker to process 1
+Process 0: Sending marker to process 2
+Process 2: Sent 71 from account 2 to account 1
+Process 2 initiating snapshot
+Process 2: Sending marker to process 1
+Process 2: Sending marker to process 0
+Snapshot taken by process 1: [46609 21652 21956]
+Process 1: Sent 30 from account 1 to account 2
+Process 1: Sent 2 from account 1 to account 2
+Process 1: Sent 40 from account 1 to account 1
+Process 1 initiating snapshot
+Process 1: Sending marker to process 2
+Process 1: Sending marker to process 0
+Snapshot taken by process 0: [27672 34277 23143]
+Process 0: Sent 9 from account 0 to account 2
+Snapshot taken by process 2: [47294 50422 5064]
+Process 2: Sent 33 from account 2 to account 0
+Process 0: Sent 39 from account 0 to account 0
+Process 0: Sent 58 from account 0 to account 0
+Process 0 initiating snapshot
+Process 0: Sending marker to process 2
+Process 0: Sending marker to process 1
+Process 2: Sent 17 from account 2 to account 2
+Process 2: Sent 93 from account 2 to account 0
+Process 2 initiating snapshot
+Process 2: Sending marker to process 1
+Process 2: Sending marker to process 0
+Snapshot taken by process 1: [46609 21620 21988]
+Process 1: Sent 37 from account 1 to account 2
+Process 1: Sent 49 from account 1 to account 2
+Process 1: Sent 7 from account 1 to account 2
+Process 1 initiating snapshot
+Process 1: Sending marker to process 2
+Process 1: Sending marker to process 0
+Snapshot taken by process 0: [27663 34277 23152]
+Process 0: Sent 39 from account 0 to account 0
+Process 0: Sent 79 from account 0 to account 2
+Snapshot taken by process 2: [47420 50422 4938]
+Process 0: Sent 4 from account 0 to account 2
+Process 0 initiating snapshot
+Process 0: Sending marker to process 1
+Process 0: Sending marker to process 2
+Process 2: Sent 1 from account 2 to account 1
+Process 2: Sent 99 from account 2 to account 2
+Process 2: Sent 44 from account 2 to account 1
+Process 2 initiating snapshot
+Process 2: Sending marker to process 1
+Process 2: Sending marker to process 0
+Snapshot taken by process 1: [46609 21527 22081]
+Process 1: Sent 24 from account 1 to account 0
+Process 1: Sent 78 from account 1 to account 1
+Process 1: Sent 59 from account 1 to account 1
+Process 1 initiating snapshot
+Process 1: Sending marker to process 2
+Process 1: Sending marker to process 0
+Snapshot taken by process 0: [27580 34277 23235]
+Snapshot taken by process 2: [47420 50467 4893]
+Process 0: Sent 32 from account 0 to account 0
+Process 0: Sent 10 from account 0 to account 0
+Process 2: Sent 56 from account 2 to account 1
+Process 2: Sent 34 from account 2 to account 0
+Process 0: Sent 60 from account 0 to account 1
+Process 0 initiating snapshot
+Process 0: Sending marker to process 2
+Process 0: Sending marker to process 1
+Process 2: Sent 19 from account 2 to account 0
+Process 2 initiating snapshot
+Process 2: Sending marker to process 1
+Process 2: Sending marker to process 0
+Snapshot taken by process 1: [46633 21503 22081]
+Process 1: Sent 49 from account 1 to account 0
+Process 1: Sent 46 from account 1 to account 2
+Process 1: Sent 28 from account 1 to account 0
+Process 1 initiating snapshot
+Process 1: Sending marker to process 2
+Process 1: Sending marker to process 0
+Snapshot taken by process 0: [27520 34337 23235]
+Snapshot taken by process 2: [47473 50523 4784]
+Process 0: Sent 23 from account 0 to account 0
+Process 0: Sent 21 from account 0 to account 2
+Process 2: Sent 79 from account 2 to account 2
+Process 2: Sent 43 from account 2 to account 1
+Process 0: Sent 16 from account 0 to account 2
+Process 0 initiating snapshot
+Process 0: Sending marker to process 2
+Process 0: Sending marker to process 1
+Process 2: Sent 35 from account 2 to account 0
+Process 2 initiating snapshot
+Process 2: Sending marker to process 0
+Process 2: Sending marker to process 1
+Snapshot taken by process 1: [46710 21380 22127]
+Process 1: Sent 47 from account 1 to account 2
+Process 1: Sent 72 from account 1 to account 0
+Process 1: Sent 92 from account 1 to account 0
+Process 1 initiating snapshot
+Process 1: Sending marker to process 2
+Process 1: Sending marker to process 0
+Snapshot taken by process 0: [27483 34337 23272]
+Process 0: Sent 64 from account 0 to account 0
+Process 0: Sent 12 from account 0 to account 2
+Snapshot taken by process 2: [47508 50566 4706]
+Process 2: Sent 96 from account 2 to account 0
+Process 0: Sent 69 from account 0 to account 1
+Process 0 initiating snapshot
+Process 0: Sending marker to process 2
+Process 0: Sending marker to process 1
+Process 2: Sent 98 from account 2 to account 1
+Process 2: Sent 38 from account 2 to account 0
+Process 2 initiating snapshot
+Process 2: Sending marker to process 1
+Process 2: Sending marker to process 0
+Snapshot taken by process 1: [46874 21169 22174]
+Process 1: Sent 74 from account 1 to account 0
+Process 1: Sent 18 from account 1 to account 2
+Process 1: Sent 55 from account 1 to account 2
+Process 1 initiating snapshot
+Process 1: Sending marker to process 2
+Process 1: Sending marker to process 0
+Snapshot taken by process 0: [27402 34406 23284]
+Process 0: Sent 29 from account 0 to account 0
+Process 0: Sent 2 from account 0 to account 1
+Snapshot taken by process 2: [47642 50664 4474]
+Process 0: Sent 94 from account 0 to account 2
+Process 0 initiating snapshot
+Process 0: Sending marker to process 2
+Process 0: Sending marker to process 1
+Process 2: Sent 84 from account 2 to account 1
+Process 2: Sent 65 from account 2 to account 0
+Process 2: Sent 28 from account 2 to account 2
+Process 2 initiating snapshot
+Process 2: Sending marker to process 1
+Process 2: Sending marker to process 0
+Snapshot taken by process 1: [46948 21022 22247]
+Process 1: Sent 21 from account 1 to account 2
+Process 1: Sent 58 from account 1 to account 1
+Snapshot taken by process 0: [27306 34408 23378]
+Process 0: Sent 8 from account 0 to account 1
+Process 0: Sent 6 from account 0 to account 1
+Snapshot taken by process 2: [47707 50748 4325]
+Process 2: Sent 95 from account 2 to account 1
+Process 2: Sent 15 from account 2 to account 2
+Final amount: 278089
