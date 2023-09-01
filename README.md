@@ -1,7 +1,7 @@
 # DC CIA 1
 
 ## Chandy Lamport Algorithm
-Implmentation of Chandy Lamport Algorithm for Distributed banking between 2 bank accounts
+Implmentation of Chandy Lamport Algorithm for Distributed banking between 3 bank accounts
 
 
 ## Output
